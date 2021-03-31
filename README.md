@@ -4,6 +4,8 @@
 
 - 💞️ I’m looking to collaborate on Fontend developer
 
+- 💻 I'm can convert pdf to html,css.
+
 - 📫 How to reach me 0349920246 , khoadtk98@gmail.com
 
 - 👀 I’m interested in football, game.  
