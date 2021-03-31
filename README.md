@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khoa
 
-- 🌱 I’m currently learning University of information technology
+- 🌱 I’m currently learning infomation security at University of information technology
 
 - 💞️ I’m looking to collaborate on Fontend developer
 
