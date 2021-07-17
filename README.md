@@ -1,14 +1,14 @@
-- 👋 Hi, I’m Khoa
+- 👋  Hi, I’m Khoa
 
-- 🌱 I’m currently learning infomation security at University of information technology
+- 🌱  I’m currently learning infomation security at University of information technology
 
-- 💞️ I’m looking to collaborate on Fontend developer
+- 💞️  I’m looking to collaborate on Fontend developer
 
-- 💻 I'm can convert pdf to html,css.
+- 💻  I'm can convert pdf to html,css.
 
-- 📫 How to reach me 0349920246 , khoadtk98@gmail.com
+- 📫  How to reach me 0349920246 , khoadtk98@gmail.com
 
-- 👀 I’m interested in football, game.  
+- 👀  I’m interested in football, game.  
 
 <!---
 khoadtk/khoadtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
